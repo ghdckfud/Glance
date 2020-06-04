@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_search"
+        android:icon="@drawable/serch"
+        android:title="Search"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/option"
+        android:icon="@drawable/option"
+        android:title="Option"
+        app:showAsAction="never"/>
+
+</menu>
